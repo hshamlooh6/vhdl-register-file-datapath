@@ -1,6 +1,6 @@
 # Register File and ALU Datapath in VHDL
 
-Another lab from my Computer Architecture course (ITCE362) at the University of Bahrain, where I'm studying Computer Engineering. This one comes right after my [8-bit ALU](https://github.com/YOUR-USERNAME/vhdl-8bit-alu), and it's where things started to look like an actual CPU.
+Another lab from my Computer Architecture course (ITCE362) at the University of Bahrain, where I'm studying Computer Engineering. This one comes right after my [8-bit ALU](https://github.com/hshamlooh6/vhdl-8bit-alu), and it's where things started to look like an actual CPU.
 
 There are two parts. First, a small register file on its own. Then the register file connected to my ALU, so results get written back into the registers on every clock edge.
 
